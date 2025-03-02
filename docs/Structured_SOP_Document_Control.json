@@ -1,0 +1,30 @@
+{
+    "document_metadata": {
+        "title": "DOCUMENT CONTROL SOP",
+        "date": null
+    },
+    "address": {
+        "street": null,
+        "city": "South Raymond",
+        "state": "LA",
+        "zip": "00130"
+    },
+    "sections": [
+        {
+            "title": "Purpose",
+            "text": "The purpose of this SOP is to establish a consistent and controlled method PURPOSE: for documenting changes made to machines."
+        },
+        {
+            "title": "Scope",
+            "text": "SCOPE: This SOP applies to all machines in the facility."
+        },
+        {
+            "title": "Responsibility",
+            "text": "RESPONSIBILITY: The person responsible for this SOP is the Quality Manager. 1. When a change is made to a machine, the machine's documentation (schematic, drawing, PLC program, etc.) must be updated to reflect any revisions and changes. 2. The person responsible for making the change must update the documentation and submit the summary to the Quality Manager for"
+        },
+        {
+            "title": "Procedure",
+            "text": "PROCEDURE: review and approval. 3. The Quality Manager will review the documentation and, if necessary, make changes. Once the documentation has been approved, it will be filed in the machine's file. 4. Any changes made to the machine without prior approval from the Quality Manager may result in disciplinary action."
+        }
+    ]
+}
